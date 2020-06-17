@@ -1,0 +1,10 @@
+scraper/*.log
+scraper/__pycache__
+scraper/Configs.py
+scraper/*.lock
+
+.vscode
+
+novel
+
+log
